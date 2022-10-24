@@ -23,6 +23,13 @@ func TestHello(t *testing.T) {
 
 		assertCorrectMessage(t, got, want)
 	})
+
+	t.Run("in French", func(t *testing.T) {
+		got := Hello("Aniruddha", "French")
+		want := "Bonjour, Aniruddha"
+
+		assertCorrectMessage(t, got, want)
+	})
 }
 
 // Avoid duplication of the if statement
