@@ -9,6 +9,11 @@
 5. Add test to check if empty string input to Hello function return "world".
 6. Refactor the test to avoid duplication of if statement for error message.
 5. Modify code to pass the test. 
+6. Add test for additional language (Marathi).
+7. Add if condition to change greeting by language.
+8. Add test for more languages (French).
+9. Convert the if statment to a switch statement.
+10. Refactor the code to make another function to give greeting prefix.
 
 
 ## Run Tests in Go:
