@@ -5,3 +5,4 @@ Following along with [**Learn Go with tests**](https://quii.gitbook.io/learn-go-
 ## Chapters
 
 1. Hello, World
+2. Integers
