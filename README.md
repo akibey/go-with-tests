@@ -8,3 +8,4 @@ Following along with [**Learn Go with tests**](https://quii.gitbook.io/learn-go-
 2. Integers
 3. Iteration
 4. Arrays and Slices
+5. Structs, Methods and Interfaces
